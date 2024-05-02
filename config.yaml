@@ -57,7 +57,7 @@ dada2pe_trunc_q: 2
 dada2pe_pooling_method: independent
 dada2pe_chimera_method: consensus
 dada2pe_min_fold_parent_over_abundance: 1
-dada2pe_n_reads_learn: 1000000
+dada2pe_n_reads_learn: 10000
 dada2pe_hashed_feature_ids: --p-hashed-feature-ids
 
 # DADA2 SINGLE-END
