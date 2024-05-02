@@ -152,8 +152,8 @@ beta_group_pairwise: --p-pairwise
 # - num_features: number of most important features (arrows) to display in the biplot ordination
 # For more info run: qiime deicode auto-rpca --help
 
-deicode_min_sample_count: 500
-deicode_min_feature_count: 10
+deicode_min_sample_count: 50
+deicode_min_feature_count: 1
 deicode_min_feature_frequency: 0
 deicode_max_iterations: 5
 deicode_num_features: 5
